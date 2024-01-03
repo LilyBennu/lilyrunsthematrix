@@ -9,6 +9,8 @@
 
 *Stretch Goals*
 - add something with that D3 graphs
+- have posts with rich text editor?
+- in contact page have the form actually submit to my email?
 
 ================================================================================
 
