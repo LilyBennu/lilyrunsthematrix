@@ -1,0 +1,43 @@
+To Do for LilyRunsTheMatrix dot com
+
+====================================================
+
+### installs to do ###
+
+router and what else?
+- npm install bootstrap@5.3
+- npm install react-router-dom@6
+- the rest are security install if we get there/ its needed
+
+
+=======================================================
+
+### folders to make ### 
+
+under src
+ - components
+ - pages 
+ - styles
+
+
+
+=========================================================
+
+### pages to make ###
+
+1 home page 
+2 about page
+3 contact page (can it connect to my linkedin or email? )
+4 projects page
+5 error page 
+6 404 page
+
+
+
+=====================================================
+
+### Components to make ### 
+
+1 Header 
+2 NavBar
+
