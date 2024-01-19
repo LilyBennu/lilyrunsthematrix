@@ -4,22 +4,32 @@ function NavBar() {
 
     return(
         <nav>
-            <div>
+            <div className="navbar-container"> 
                 <ul>
-                    <li>
-                        Home
+                    <li className="nav-item">
+                        <NavLink to="/" className="nav-link">
+                            Home
+                        </NavLink>
                     </li>
-                    <li>
-                        About
+                    <li className="nav-item">
+                        <NavLink to="/about" className="nav-link">
+                            About
+                        </NavLink>
                     </li>
-                    <li>
-                        Contact
+                    <li className="nav-item">
+                        <NavLink to="/contact" className="nav-link">
+                            Contact
+                        </NavLink>
                     </li>
-                    <li>
-                        Projects
+                    <li className="nav-item">
+                        <NavLink to="/projects" className="nav-link">
+                            Projects
+                        </NavLink>
                     </li>
-                    <li>
-                        Memes
+                    <li className="nav-item">
+                        <NavLink to="/memes" className="nav-link">
+                            Memes
+                        </NavLink>
                     </li>
                 </ul>
             </div>
