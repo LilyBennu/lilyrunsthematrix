@@ -9,18 +9,12 @@ import Memes from './pages/Memes'
 import NotFound from './pages/NotFound';
 import Projects from './pages/Projects';
 
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          lilyrunsthematrix currently under construction :)
-        </p>
-      </header>
+      
       <div className='route-container'>
         <Router>
           <Header/>
